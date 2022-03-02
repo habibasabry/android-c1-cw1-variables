@@ -1,0 +1,4 @@
+String name = "habiba";
+int favoritenumber = 7;
+String hobby = "drawing"; 
+System.out.println(" my name is " + name + " , my favorite number " + favoritenumber + " and my hobby is drawing " + hobby);
